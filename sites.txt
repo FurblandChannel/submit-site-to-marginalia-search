@@ -37,6 +37,8 @@ bb89.nl
 fragglejazz.nl
 blog.philz.dev
 philz.dev
+chinafake.wiki
+http://198.50.213.215:8141/
 www.getitfree.nl
 borne.nl
 groenlinks.nl
